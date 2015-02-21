@@ -1,3 +1,3 @@
 ## Project for course 'Practical Machine Learning'
 
-This repository contains code for a project I did as part of an online course, 'Practical Machine Learning' from [Courser and John Hopkins University](https://www.coursera.org/course/predmachlearn). This project takes fitness telemetry data such as gyroscope measurements for bicep curls and uses it to predict whether an exercise was done with proper form.
+This repository contains code for a project I did as part of an online course, 'Practical Machine Learning' from [Courser and John Hopkins University](https://www.coursera.org/course/predmachlearn). This project takes fitness telemetry data such as gyroscope measurements for bicep curls and uses it to predict whether an exercise was done with proper form. See it [here](http://anjoman.github.io/practical-machine-learning-project/).
